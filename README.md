@@ -1,8 +1,3 @@
-Thank you for the clarification! Based on the updated table of contents you provided for *Building Resilient Distributed Systems* by Sam Newman, I can help you organize the book into manageable sessions with a focus on the key concepts in each chapter.
-
-Here's an updated breakdown for the book, using the chapters that are available as well as placeholders for the unavailable chapters.
-
----
 
 ### **Session 1: Introduction to Resiliency**
 - **Chapter 1: What Is Resiliency?**
